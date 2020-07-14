@@ -2,6 +2,8 @@
 
 Basic calculator App made with react.
 
+Link to the app is in about section.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
